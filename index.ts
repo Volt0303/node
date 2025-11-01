@@ -88,6 +88,7 @@ class Chain {
 
 }
 
+
 // Wallet gives a user a public/private keypair
 class Wallet {
   public publicKey: string;
